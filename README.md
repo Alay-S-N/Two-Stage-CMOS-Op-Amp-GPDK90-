@@ -1,4 +1,5 @@
-<img width="1823" height="893" alt="image" src="https://github.com/user-attachments/assets/d526325c-6a6c-4a1a-b6d0-3225beb8b11d" /># Two-Stage-CMOS-Op-Amp-GPDK90-
+> Two-Stage-CMOS-Op-Amp-GPDK090-
+<img width="1823" height="893" alt="image" src="https://github.com/user-attachments/assets/d526325c-6a6c-4a1a-b6d0-3225beb8b11d" /># 
 Two Stage CMOS Op-Amp simulation and analysis in Cadence Virtuoso IC 6.1.7 , this is a basic operational amplifier with a basic differential amplifier , a CMOS output stage , a basic current mirror and Miler Compensation .
 The Op-Amp meets the following specifications : 
 ICMR(+) = 1.6 V
