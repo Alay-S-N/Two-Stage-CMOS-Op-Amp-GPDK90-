@@ -11,3 +11,4 @@ The Op-Amp was built using mosfets from GPDK090  (90nm PDK) and basic analog dev
 The length chosen L = 500nm
 The width of the mos devices were then calculated by hand and modified by intuition to prioritise gain and meet a minimum of 45 Degree phase margin .
 The schematic and setup to analyse DC and AC parameters :
+![schematic with wl](https://github.com/user-attachments/assets/152214cf-786b-4e78-8c7e-351e1c7e1d9a)
